@@ -50,3 +50,4 @@ com.example.starsgallery/
 - **Material Design** — composants UI
 
 ## l'app enregistre :
+https://github.com/user-attachments/assets/b6b5b834-ba78-4b9c-ae04-677011e87620
